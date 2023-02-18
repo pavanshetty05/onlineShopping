@@ -8,7 +8,7 @@ public class OnlineShoppingApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Make the changes");
+
 		SpringApplication.run(OnlineShoppingApplication.class, args);
 	}
 
