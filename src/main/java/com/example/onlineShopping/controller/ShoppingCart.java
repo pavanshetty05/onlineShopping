@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ShoppingCart {
 
-
+private String userName;
 
 }
